@@ -5,7 +5,7 @@
 
 ## 🗣️ About
 
-This repository contains my solutions for the **C++ Modules 00 to 05** of the 42 Cursus. The goal of these modules is to introduce Object-Oriented Programming (OOP) using C++ 98. Starting from the basics of the language to more complex concepts like polymorphism and templates.
+This repository contains my solutions for the **C++ Modules 00 to 04** of the 42 Cursus. The goal of these modules is to introduce Object-Oriented Programming (OOP) using C++ 98. It goes from the basics of the language to inheritance, polymorphism and abstract classes.
 
 Each module is designed to tackle specific concepts of the C++ language.
 
@@ -45,7 +45,7 @@ Each module is designed to tackle specific concepts of the C++ language.
 
 **Focus:** Inheritance.
 
-> specific focus on Inheritance, allowing classes to derive properties and behaviors from other classes.
+> Focuses on inheritance, allowing classes to derive properties and behaviors from other classes.
 >
 > [Read more](./Module03/README.md)
 
@@ -59,14 +59,7 @@ Each module is designed to tackle specific concepts of the C++ language.
 >
 > [Read more](./Module04/README.md)
 
----
-
-### Module 05: Repetition and Exceptions
-
-**Focus:** Exceptions, Try/Catch blocks.
-
-> _Note: Module 05 is located in a separate repository structure in this workspace._
-> Introduces C++ exceptions for error handling.
+Modules 05 to 09 (exceptions, casts, templates and the STL) are in [CPP-Modules05-09](https://github.com/VolmerES/CPP-Modules05-09).
 
 ## 🛠️ Usage
 
