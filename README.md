@@ -70,3 +70,7 @@ cd ModuleXX/exYY
 make
 ./program_name
 ```
+
+## License
+
+Released under the [MIT License](LICENSE). © 2024-2026 Juan Bautista Delorme Pinedo.
